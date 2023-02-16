@@ -1,0 +1,18 @@
+{
+  "carouselItems": {
+    "bootstrap": [
+      {
+        "id": 1,
+        "imageUrl": "/images/featured.png"
+      },
+      {
+        "id": 2,
+        "imageUrl": "/images/featured2.png"
+      },
+      {
+        "id": 3,
+        "imageUrl": "/images/featured3.png"
+      }
+    ]
+  }
+}
