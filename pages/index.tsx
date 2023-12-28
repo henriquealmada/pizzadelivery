@@ -47,7 +47,7 @@ export default function Home({ pizzas }: Props) {
           {bootstrap.map(item => (
             <Carousel.Item key={item.id} interval={4000}>
               <Image
-                className="w-[90%] m-auto d-block w-100"
+                className="w-[80%] m-auto d-block lg:h-[87vh]"
                 src={item.imageUrl}
                 width="500"
                 height="500"
